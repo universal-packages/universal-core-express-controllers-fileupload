@@ -17,7 +17,7 @@ npm install @universal-packages/core-express-controllers
 ## Initialization
 
 ```shell
-ucore exec authentication-task init
+ucore exec express-fileupload-task init
 ```
 
 ## Running App
