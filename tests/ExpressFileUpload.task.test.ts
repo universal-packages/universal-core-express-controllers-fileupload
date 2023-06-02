@@ -1,5 +1,6 @@
 import { Logger } from '@universal-packages/logger'
 import { populateTemplates } from '@universal-packages/template-populator'
+
 import ExpressFileUploadTask from '../src/ExpressFileUpload.universal-core-task'
 
 jest.mock('@universal-packages/template-populator')

@@ -1,5 +1,5 @@
-import { setFileUploadOptions } from '@universal-packages/express-controllers-fileupload'
 import { CoreModule } from '@universal-packages/core'
+import { setFileUploadOptions } from '@universal-packages/express-controllers-fileupload'
 import fileUpload from 'express-fileupload'
 
 export default class ExpressFileUploadModule extends CoreModule<fileUpload.Options> {

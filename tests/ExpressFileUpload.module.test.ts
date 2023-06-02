@@ -1,4 +1,5 @@
 import { Logger } from '@universal-packages/logger'
+
 import { ExpressFileUploadModule } from '../src'
 
 describe('ExpressControllersFileUploadModule', (): void => {
