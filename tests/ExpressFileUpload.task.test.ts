@@ -5,7 +5,7 @@ import ExpressFileUploadTask from '../src/ExpressFileUpload.universal-core-task'
 
 jest.mock('@universal-packages/template-populator')
 
-describe('ExpressFileUploadTask', (): void => {
+describe(ExpressFileUploadTask, (): void => {
   it('behaves as expected', async (): Promise<void> => {
     const logger = new Logger({ silence: true })
 
