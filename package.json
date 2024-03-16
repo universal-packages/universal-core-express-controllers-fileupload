@@ -19,7 +19,6 @@
     "@universal-packages/express-controllers-fileupload": "^1.0.7"
   },
   "peerDependencies": {
-    "@universal-packages/core": "^1.16.32",
     "@universal-packages/core-express-controllers": "^1.4.18"
   },
   "devDependencies": {
