@@ -16,7 +16,7 @@
     "update-dependents": "umaintenance update-dependents"
   },
   "dependencies": {
-    "@universal-packages/express-controllers-fileupload": "^1.0.7"
+    "@universal-packages/express-controllers-fileupload": "^1.0.9"
   },
   "peerDependencies": {
     "@universal-packages/core-express-controllers": "^1.4.22"
