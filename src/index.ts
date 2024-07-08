@@ -1,1 +1,1 @@
-export { default as ExpressFileUploadModule } from './ExpressFileUpload.universal-core-module'
+export { default as ExpressControllersFileuploadModule } from './ExpressControllersFileupload.universal-core-module'
