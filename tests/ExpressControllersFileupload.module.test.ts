@@ -10,7 +10,7 @@ coreJest.runBare({
 
 describe(ExpressControllersFileuploadModule, (): void => {
   it('behaves as expected', async (): Promise<void> => {
-    expect(core.coreModules.expressControllersFileuploadModule).not.toBeUndefined()
-    expect(core.coreModules.expressControllersFileuploadModule.config).toEqual({ tempFileDir: './tmp1' })
+    expect(core.coreModules.expressControllersFileupload).not.toBeUndefined()
+    expect(core.coreModules.expressControllersFileupload.config).toEqual({ tempFileDir: './tmp1' })
   })
 })
