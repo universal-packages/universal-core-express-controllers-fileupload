@@ -17,7 +17,7 @@ npm install @universal-packages/core-express-controllers
 ## Initialization
 
 ```shell
-ucore initialize express-fileupload
+ucore initialize express-controllers-fileupload
 ```
 
 ## Running App
